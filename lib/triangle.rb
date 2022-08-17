@@ -1,10 +1,5 @@
-# class Triangle
-#   # write code here
-# end
-
-
 class Triangle
-  #attr_accessor :partner, :name
+  # write code here
 
   def initialize(side1, side2, side3)
     @side1 = side1
@@ -28,9 +23,3 @@ class Triangle
   end
 end
 
-# class TriangleError < StandardError
-# end
-
-# beyonce = Person.new("Beyonce")
-# beyonce.get_married("Jay-Z")
-# puts beyonce.name
